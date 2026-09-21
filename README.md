@@ -61,5 +61,7 @@ railway_reservation_system/
 ├── output.png        # Execution screenshot
 └── README.md         # Project documentation
 
-##output
+
+
+## output
 [Project Output](output.png)
